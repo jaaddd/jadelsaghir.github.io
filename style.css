@@ -886,12 +886,13 @@ details.is-open > .details-panel {
 
 .project-feature > p,
 .project-feature > ul {
-  max-width: 720px;
+  max-width: none;
   color: #b8b8b2;
 }
 
 .project-feature > ul {
   max-width: none;
+  font-weight: 600;
   margin: 0;
   padding-left: 18px;
 }
