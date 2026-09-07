@@ -891,6 +891,7 @@ details.is-open > .details-panel {
 }
 
 .project-feature > ul {
+  max-width: none;
   margin: 0;
   padding-left: 18px;
 }
